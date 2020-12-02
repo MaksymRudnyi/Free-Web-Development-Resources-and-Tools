@@ -19,7 +19,7 @@ Subscribe my [YouTube](https://www.youtube.com/c/TravelsCode).
 - [Freelancing platforms](#freelancing-platforms)
 - [Remote Jobs](#remote-jobs)
 - [Resume & CV builders](#resume-and-cv-builders)
-- [Photos](#photos)
+- [Free Stock Photos](#photos)
 - [Illustrations](#illustrations)
 - [Icons](#icons)
 - [Fonts](#fonts)
@@ -123,6 +123,7 @@ Subscribe my [YouTube](https://www.youtube.com/c/TravelsCode).
 | https://guru.com |  
 | https://hireable.com |  
 | https://6nomads.com |  
+| https://99designs.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -367,6 +368,8 @@ Subscribe my [YouTube](https://www.youtube.com/c/TravelsCode).
 | Website |
 | ------- |
 | [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) |  
+| [Google Search Console](https://search.google.com/search-console/about) |
+| [Chrome User Experience Report](https://developers.google.com/web/tools/chrome-user-experience-report) |
 | [GTmetrix](https://gtmetrix.com/) |  
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) |
