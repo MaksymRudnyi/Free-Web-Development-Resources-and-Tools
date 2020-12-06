@@ -36,6 +36,7 @@ Subscribe my [YouTube](https://www.youtube.com/c/TravelsCode).
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 - [CSS Frameworks](#css-frameworks)
 - [Newsletters](#newsletters)
+- [List of lists](#list-of-lists)
 
 ## Free Hosting:  
 
@@ -428,5 +429,16 @@ Subscribe my [YouTube](https://www.youtube.com/c/TravelsCode).
 | [Accessibility Weekly](https://a11yweekly.com/) | Accessibility. |
 | [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/) | Responsive web design. |
 | [JAMstacked](https://jamstack.email/) | JAMstack ecosystem. |
+
+[⬆ back to top](#table-of-contents)
+
+## List of lists:
+
+| Website |
+| ------- |
+| https://github.com/MilanAryal/web-development-resources |
+| https://github.com/micromata/awesome-javascript-learning |
+| https://github.com/mrmartineau/awesome-web-dev-resource |
+| https://github.com/enaqx/awesome-react |
 
 [⬆ back to top](#table-of-contents)
