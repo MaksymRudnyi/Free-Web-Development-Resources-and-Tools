@@ -152,6 +152,7 @@ Subscribe my [YouTube](https://www.youtube.com/c/TravelsCode).
 | https://smallcv.com/ |
 | https://www.resume.com/ |
 | https://resumake.io/ |
+| https://resumeinvited.com/ |
 | https://flowcv.io/ |
 | https://www.overleaf.com/ | Free Trial |
 | https://www.easyresume.io/ |
